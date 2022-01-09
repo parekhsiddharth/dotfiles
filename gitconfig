@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = parekh.siddharth@gmail.com
+	name = Siddharth Parekh
